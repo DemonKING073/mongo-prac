@@ -1,0 +1,16 @@
+{
+  "name": "mongo-prac",
+  "version": "1.0.0",
+  "description": "yetekai",
+  "main": "index.js",
+  "repository": "git@github.com:DemonKING073/mongo-prac.git",
+  "author": "Din Bibek Thapa <legendsnever7die@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "assert": "^2.0.0",
+    "mongodb": "^4.1.3"
+  }
+}
